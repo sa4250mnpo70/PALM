@@ -1,4 +1,4 @@
-ALMP
+PALM
 ====
 
-Android as Webserver using Lighthttpd,Mysql, and PHP
+Developing a Php application on Android by running Lighthttpd with Mysql server on it. Its a portable webserver on Android mobile
